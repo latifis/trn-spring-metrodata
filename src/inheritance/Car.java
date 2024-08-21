@@ -10,4 +10,10 @@ public class Car extends Vehicle {
         km+=100;
         return km;
     }
+
+    // Overloading
+    int speed(int km, int cek){
+        km+=cek;
+        return km;
+    }
 }

@@ -17,5 +17,8 @@ public class MainCarApp {
 
         // overriding
         System.out.println(car.speed(4));
+
+        // overloading
+        System.out.println(car.speed(4,4));
     }
 }
