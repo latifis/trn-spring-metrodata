@@ -13,3 +13,11 @@ F
 src/Looping.java,2\6\2687d496755c84f49cd76984562aad2ffe25a344
 ?
 src/Method.java,8\e\8e40a361a97ccf3a43972421cdc9135a89b7a089
+D
+src/oopp/Person.java,5\b\5bb8e31bee4b93fb21ba4d34d96bc747bef314a4
+G
+src/oopp/PersonApp.java,a\d\adad0a2aa5924f83430c0bc0fc00b09b9f754d0a
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

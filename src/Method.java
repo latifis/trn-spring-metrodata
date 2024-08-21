@@ -1,5 +1,8 @@
 public class Method {
     public static void main(String[] args) {
+        // static itu buat
+        // biar tanpa inisialisasi objek
+
 //        Method.greetings();
         greetings("Cowok");
         System.out.println(sum(1,2));
