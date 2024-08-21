@@ -55,3 +55,9 @@ O
 src/encapsulation/Employee.java,c\9\c913104e26ffbf6cc0255556bbbf3b0d415a60af
 V
 &src/encapsulation/EmployeeMainApp.java,c\3\c39e09d13bf68d602d8f77cb733c958391ea8bb3
+K
+src/abstraction/Animal.java,2\7\27bcd3a5064b52a9d489be4b5a716c56431cab19
+H
+src/abstraction/Cat.java,6\3\6343a0be15973aa01f27409ba0aec7635c8aec6e
+R
+"src/abstraction/MainAnimalApp.java,1\4\14044afe970fddd8f9806d6c06a877cc96fbac88
