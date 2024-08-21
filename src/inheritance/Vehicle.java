@@ -9,4 +9,8 @@ public class Vehicle {
         System.out.printf("This car with brand %s have %d wheels.", brand, wheel);
     }
 
+    int speed(int val){
+        return val;
+    }
+
 }

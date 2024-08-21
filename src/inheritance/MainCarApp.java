@@ -13,5 +13,9 @@ public class MainCarApp {
 
         Vehicle vehicle = new Vehicle();
 //        vehicle.swim(): // ga ada
+
+
+        // overriding
+        System.out.println(car.speed(4));
     }
 }
