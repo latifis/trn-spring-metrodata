@@ -13,5 +13,20 @@ public class PersonApp {
         System.out.println(person1.age);
         System.out.println(person1.instagram);
 
+        person1.greetings();
+//        person1 = new Person();
+
+        String result = String.format("Hello Mr.%s, age %d, instagram %s", person1.name, person1.age, person1.instagram);
+
+        System.out.println(result);
+        System.out.println(person1);
+
+        Person person2 = person1;
+
+        person2.name = "ganti";
+
+        System.out.println(person2.name);
+        System.out.println(person2);
+        System.out.println(person1.name);
     }
 }
