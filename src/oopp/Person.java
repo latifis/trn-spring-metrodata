@@ -13,4 +13,23 @@ public class Person {
 //        System.out.printf(name);
     }
 
+    // CONSTRUCTOR
+
+    Person(){   // CONSTRUCTOR DEFAULT
+
+    }
+
+    // shortcut -> (alt + insert)
+    public Person(String name, int age, String instagram) {
+        this.name = name;
+        this.age = age;
+        this.instagram = instagram;
+    }
+
+    // Custom
+    public Person(String name) {
+        this.name = name;
+        this.age = 21;
+        this.instagram = "instagram";
+    }
 }

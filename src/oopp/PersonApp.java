@@ -28,5 +28,12 @@ public class PersonApp {
         System.out.println(person2.name);
         System.out.println(person2);
         System.out.println(person1.name);
+
+        Person person3 = new Person("latiff", 23, "@ltf");
+
+        System.out.println(person3.name);
+        System.out.println(person3.age);
+        System.out.println(person3.instagram);
+
     }
 }
