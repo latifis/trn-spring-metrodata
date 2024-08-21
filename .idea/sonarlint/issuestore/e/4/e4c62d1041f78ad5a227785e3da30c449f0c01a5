@@ -1,0 +1,29 @@
+
+]
+java:S1220""Move this file to a named package.8óéÈ–—2J$3ba0b9dd-201d-4799-a151-61e15e412d4c
+z
+java:S2589"7Remove this expression which always evaluates to "true"(ú¡˜“8ïêÈ–—2J$8d2d01bc-94cd-4720-9afe-0d76afac755a
+x
+java:S1854"5Remove this useless assignment to local variable "d".(»ƒ·™8÷êÈ–—2J$5863ef1c-86e2-4d75-bb7d-152a745adfd2
+€
+java:S1854"8Remove this useless assignment to local variable "kata".(ÅîõŞüÿÿÿÿ8øêÈ–—2J$d12036dd-74f2-4a26-bd23-498bad970fd1
+q
+java:S1481")Remove this unused "kata" local variable.(ÅîõŞüÿÿÿÿ8üêÈ–—2J$db05a5f7-bf1e-4f3e-bfed-01425325bcc0
+m	java:S106"+Replace this use of System.out by a logger.(­ –8ÿêÈ–—2J$96ed4d42-6fa0-4028-837a-a03e73ab107a
+r	java:S106"+Replace this use of System.out by a logger.(ÿ’‘Îıÿÿÿÿ8ëÈ–—2J$d86e683c-9d8f-4b56-b74e-a49ef2c55dae
+r	java:S106	"+Replace this use of System.out by a logger.(¨¢Ë½ûÿÿÿÿ8ƒëÈ–—2J$ba49c5fa-44e5-4813-b63a-fe0a6e33f253
+m	java:S106
+"+Replace this use of System.out by a logger.(áÌôÙ8„ëÈ–—2J$90980038-c921-4877-84e8-87685d248126
+m	java:S106"+Replace this use of System.out by a logger.(œîˆŠ8†ëÈ–—2J$34dd9990-6bca-4a7c-afce-efb765324049
+r	java:S106"+Replace this use of System.out by a logger.(êğù³üÿÿÿÿ8‡ëÈ–—2J$44ff1c97-46e4-487c-9b83-926a403b0d55
+~	java:S125"<This block of commented-out lines of code should be removed.(Í”Ê8‰ëÈ–—2J$a6ad4500-ebd8-4b14-93a6-f81fa1a2f9cb
+r	java:S106"+Replace this use of System.out by a logger.(ı·‡‘øÿÿÿÿ8‹ëÈ–—2J$30f063e2-d6ef-4eec-8357-33cbce83b884
+m	java:S106"+Replace this use of System.out by a logger.(»„Á8ŒëÈ–—2J$bad28f53-a649-42f2-95b4-709870e7f5ea
+r	java:S106"+Replace this use of System.out by a logger.(ÍÿÂ…øÿÿÿÿ8ëÈ–—2J$43ad1d17-2044-4f88-9ccb-efce523fe650
+r	java:S106"+Replace this use of System.out by a logger.(†Á¸ÿÿÿÿÿ8ëÈ–—2J$7ba93c2e-137d-4de4-acdd-515d67ba7a7f
+~	java:S125"<This block of commented-out lines of code should be removed.(–àÒ«8‘ëÈ–—2J$87f21d21-a438-4416-81d5-468e432063cd
+i
+java:S1481"&Remove this unused "d" local variable.(»ƒ·™8’ëÈ–—2J$44690c6a-b387-4b6a-b023-2a2bdf543da4
+
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ú¡˜“8•ëÈ–—2J$6468b421-0e5e-4aee-97ea-e3969842ed1d
+m	java:S106"+Replace this use of System.out by a logger.(¨Ô…‹8–ëÈ–—2J$0379a1bf-fcd8-4910-a3b6-b16f3ff8a0f1
