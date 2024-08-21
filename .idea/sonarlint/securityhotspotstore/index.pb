@@ -51,3 +51,7 @@ V
 &src/fundamental/AritmaticOperator.java,6\e\6eb1988f88ed04c6d6ce8af001ad91a4974f2f7a
 O
 src/fundamental/HelloWorld.java,3\3\331daca795bc0425ef81fb2b2d9a6d9b5ae1bba8
+O
+src/encapsulation/Employee.java,c\9\c913104e26ffbf6cc0255556bbbf3b0d415a60af
+V
+&src/encapsulation/EmployeeMainApp.java,c\3\c39e09d13bf68d602d8f77cb733c958391ea8bb3
