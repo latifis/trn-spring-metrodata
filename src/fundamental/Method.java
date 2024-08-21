@@ -1,9 +1,11 @@
+package fundamental;
+
 public class Method {
     public static void main(String[] args) {
         // static itu buat
         // biar tanpa inisialisasi objek
 
-//        Method.greetings();
+//        fundamental.Method.greetings();
         greetings("Cowok");
         System.out.println(sum(1,2));
         sayCongrats("Johan", 90,88,67,70,90);
@@ -21,7 +23,7 @@ public class Method {
         return n1 + n2;
     }
 
-    // Method Variable Argument
+    // fundamental.Method Variable Argument
     public static void sayCongrats(String name, int... nilai) {
         int total = 0;
         for (int n : nilai) {

@@ -1,3 +1,5 @@
+package fundamental;
+
 public class ConditionFlow {
     public static void main(String[] args) {
         // IF STATEMENT

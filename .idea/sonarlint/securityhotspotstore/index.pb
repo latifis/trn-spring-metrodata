@@ -21,3 +21,33 @@ G
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+L
+src/inheritance/Vehicle.java,0\1\019af91d76b6157c8278df4406dda245639f263e
+H
+src/inheritance/Car.java,6\9\69e244012c83a9b286ae50c459eaecae69da7b3f
+O
+src/inheritance/MainCarApp.java,8\8\8880a9fd67589441894ca1e1d8659013c92eb38e
+R
+"src/fundamental/ConditionFlow.java,d\6\d647146ad6b98aa3e1d6c1a2009e63f968e956bf
+Å
+Q.idea/sonarlint/securityhotspotstore/5/b/5bb8e31bee4b93fb21ba4d34d96bc747bef314a4,1\4\14f8ecb30c635b69a5891e413127e9ee32ca2e58
+L
+src/fundamental/Looping.java,e\6\e67ee06a5b7f03fd567668229137b2fa0664b088
+J
+src/fundamental/Array.java,4\3\437b8f88192d2ffdd514f5a09823d36926bc7a47
+Å
+Q.idea/sonarlint/securityhotspotstore/a/d/adad0a2aa5924f83430c0bc0fc00b09b9f754d0a,5\f\5fb5d652f56123b19ad4695721fa6114e8fc45dc
+Å
+Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
+Å
+Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
+w
+G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
+K
+src/fundamental/Method.java,8\6\864f1a430b666d4bdfb3502938ff8dbd66913476
+w
+G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
+V
+&src/fundamental/AritmaticOperator.java,6\e\6eb1988f88ed04c6d6ce8af001ad91a4974f2f7a
+O
+src/fundamental/HelloWorld.java,3\3\331daca795bc0425ef81fb2b2d9a6d9b5ae1bba8
