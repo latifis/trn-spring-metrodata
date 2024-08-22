@@ -85,3 +85,5 @@ P
  src/collection/SortedSetApp.java,b\6\b69bdedb6f01e96acae41f34008997da0c7b3368
 S
 #src/collection/NavigableSetApp.java,6\8\6848d6aa52353a9803ab97e4caa944637aadbbd3
+L
+src/collection/QueueApp.java,8\f\8fb48f31f8a975601d623abc7c80ed10affbff29
