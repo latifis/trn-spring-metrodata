@@ -75,3 +75,9 @@ V
 &src/errorHandling/FinallyKeywords.java,7\b\7bbbae699fb1930e7b94a3a7f943ce9157fb4802
 O
 src/collection/IterableApp.java,2\f\2f424d26313b2833846f647ffa93454dc43412e7
+K
+src/collection/ListApp.java,3\5\359e30ccc2fcc53e174f76a6b1ef1807f49caf5c
+L
+src/collection/Employee.java,6\d\6dcc69634df54252d3b22928665b997f95eabc08
+N
+src/collection/SetExample.java,0\5\055d413a10a65f424ae7baeff33db97a74f481e7
