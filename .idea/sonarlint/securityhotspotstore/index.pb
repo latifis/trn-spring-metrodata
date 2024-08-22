@@ -97,3 +97,15 @@ V
 &src/collection/IdentityHashMapApp.java,c\8\c89e261cb79b249340c553673a209c5916b481f7
 T
 $src/collection/LinkedHashMapApp.java,1\5\157230795c014125ad0dc73e6d595390f4c24e13
+M
+src/javaio/ByteStreamApp.java,4\f\4fbe305685d1d8fdc1bfb2a946fb7d4ff99a7b40
+=
+src/input.txt,8\c\8cbac797254f9692ef53fe8cb86c2753c7c69c71
+P
+ src/javaio/SequenceInputApp.java,4\f\4f8d827ce32715548271086c8c496a298ad63d9b
+S
+#src/javaio/FileOutputStreamApp.java,1\7\17f718dca281bb3d8eeaa9c7e34dacb118a67935
+>
+src/output.txt,9\9\991a636512deb6a40e959b6c6688b9c0e800d51a
+R
+"src/javaio/CharacterStreamApp.java,3\4\3484d0cc5b6171f3def3180946d94417635ebc0b
