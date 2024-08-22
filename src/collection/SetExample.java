@@ -16,5 +16,8 @@ public class SetExample {
 //        data
 
         System.out.println(data);
+
+
+        // ENUM
     }
 }
