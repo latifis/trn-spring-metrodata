@@ -81,3 +81,7 @@ L
 src/collection/Employee.java,6\d\6dcc69634df54252d3b22928665b997f95eabc08
 N
 src/collection/SetExample.java,0\5\055d413a10a65f424ae7baeff33db97a74f481e7
+P
+ src/collection/SortedSetApp.java,b\6\b69bdedb6f01e96acae41f34008997da0c7b3368
+S
+#src/collection/NavigableSetApp.java,6\8\6848d6aa52353a9803ab97e4caa944637aadbbd3
