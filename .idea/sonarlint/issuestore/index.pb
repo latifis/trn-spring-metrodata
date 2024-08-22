@@ -87,3 +87,13 @@ S
 #src/collection/NavigableSetApp.java,6\8\6848d6aa52353a9803ab97e4caa944637aadbbd3
 L
 src/collection/QueueApp.java,8\f\8fb48f31f8a975601d623abc7c80ed10affbff29
+G
+src/collection/Map.java,c\9\c9fc581653f4678ec8c6a3bfe6fcd9db60fd6cb2
+J
+src/collection/MapApp.java,9\8\9898cef12c07d06809333479603f2a46416a6c89
+R
+"src/collection/WeakHashMapApp.java,a\3\a36d1831d29e5c3c8dd4ab10d98c885d6b373480
+V
+&src/collection/IdentityHashMapApp.java,c\8\c89e261cb79b249340c553673a209c5916b481f7
+T
+$src/collection/LinkedHashMapApp.java,1\5\157230795c014125ad0dc73e6d595390f4c24e13
