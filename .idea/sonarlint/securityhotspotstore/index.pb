@@ -69,3 +69,5 @@ U
 +src/errorHandling/ValidateAgeException.java,1\5\15ff2af5307da7abc40521a945a672f27947d2c9
 V
 &src/errorHandling/CustomException.java,0\8\0894ee743e7494c5fb89667383ed6a2c6160883b
+V
+&src/errorHandling/ThrowsException.java,3\2\32795069ed77e65a8059b4edc544ecc9eac2d5c8
