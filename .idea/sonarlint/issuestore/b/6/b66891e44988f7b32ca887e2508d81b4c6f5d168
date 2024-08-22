@@ -1,26 +1,0 @@
-
-­
-java:S1192"jDefine a constant instead of duplicating this literal "Selamat anda lulus dengan nilai memuaskan" 4 times.(©Ã«‘8µ´ô–—2J$8d3bcd3a-c470-42a3-b329-587a385625d8
-
-java:S1192#"VDefine a constant instead of duplicating this literal "Maaf anda tidak lulus" 3 times.(Ôœ÷‘ıÿÿÿÿ8ŒÎø–—2J$35a06a6a-8b97-490f-a4a0-f51f4abdb46d
-V
-java:S1220""Move this file to a named package.J$96a5c0f8-af06-4d30-afef-6b3fcc49adbc
-r	java:S106"+Replace this use of System.out by a logger.(¡¸äúÿÿÿÿ8ãÛÊ–—2J$bc6676c3-3baa-49d9-b86d-376a1be93167
-m	java:S106
-"+Replace this use of System.out by a logger.(ïÓ÷à8åÛÊ–—2J$6bdd03e5-451c-4d69-a877-29f2884ab4ce
-r	java:S106"+Replace this use of System.out by a logger.(ıø°­ıÿÿÿÿ8åÛÊ–—2J$893e1659-4d5b-48dc-aba6-36290e121802
-l	java:S106"+Replace this use of System.out by a logger.( ï’]8çÛÊ–—2J$a432b960-fae8-45c2-b2c8-03d71fbfe9e0
-r	java:S106"+Replace this use of System.out by a logger.(Şñ¯ıÿÿÿÿ8èÛÊ–—2J$a0cffd5f-c1b0-4b0e-8dfd-14eeb8a1e2e4
-	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Ïºˆ¯8ã¾Ş–—2J$7953bf08-4bde-41dd-b751-c66ffcfc431e
-m	java:S106"+Replace this use of System.out by a logger.(©Ã«‘8ƒÎÛ–—2J$633b5287-7688-41b2-a669-8401a4a2a2eb
-r	java:S106"+Replace this use of System.out by a logger.(‚È§šùÿÿÿÿ8„ÎÛ–—2J$a94ce60f-27c9-44a7-b340-9aa9938e9ed4
-m	java:S106"+Replace this use of System.out by a logger.(¸®ğÛ8„ÎÛ–—2J$be7f792c-3b21-47f2-9780-48ef59ac0e49
-m	java:S106 "+Replace this use of System.out by a logger.(‰õœ¬8…ÎÛ–—2J$c817569f-df4a-49ca-94ab-2b45660736ce
-r	java:S106#"+Replace this use of System.out by a logger.(Ôœ÷‘ıÿÿÿÿ8ç¾Ş–—2J$a3934c2b-32bd-460b-98c4-8fcbd6f4da79
-m	java:S106*"+Replace this use of System.out by a logger.(©Ã«‘8ü¼ì–—2J$f4398a1d-e6a8-4ce1-adfc-8311be816633
-m	java:S106+"+Replace this use of System.out by a logger.(©Ã«‘8ü¼ì–—2J$13113589-5b01-44da-b9aa-8c7787f30ff2
-m	java:S106,"+Replace this use of System.out by a logger.(©Ã«‘8ı¼ì–—2J$d5cb03e5-903b-482c-ac5a-fd7b02db1060
-r	java:S106."+Replace this use of System.out by a logger.(ë²·şÿÿÿÿ8’¸ô–—2J$7bd4a68d-bd94-4aee-9f76-f3667fddda68
-m	java:S106/"+Replace this use of System.out by a logger.(’×”¿8“¸ô–—2J$6f0b1ff1-f102-46e2-8092-7808f16ef378
-m	java:S1060"+Replace this use of System.out by a logger.(ÜÒª²8”¸ô–—2J$e60fc8dc-24bc-4796-b1c1-b57b0f86876d
-r	java:S1066"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ºÑø–—2J$be53d443-a74a-4373-b5e3-b5713657c39f
